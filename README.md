@@ -29,7 +29,7 @@ If your filenames are different, substitute accordingly.
 
 ---
 
-## Requirements
+## Requirements:
 
 Recommended Python version: 3.8+
 
